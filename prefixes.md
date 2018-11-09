@@ -12,3 +12,4 @@ binary principles, which has a base of 2, one kilo represents 1024 bytes.
 ### Mega
 Through other experiences, you may have heard mega as having a value of one million. Because of the binary principals, mega holds a value of 1048576 bytes.
 
+https://github.com/LivChambliss/IT-tutorial/blob/master/README.md
