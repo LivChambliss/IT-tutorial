@@ -10,3 +10,4 @@ The target audience of this tutorial is for beginer IT students or a general unf
 
 https://github.com/LivChambliss/IT-tutorial/blob/master/bits-vs-bytes.md (bits vs bytes)
 https://github.com/LivChambliss/IT-tutorial/blob/master/prefixes.md (prefixes)
+https://github.com/LivChambliss/IT-tutorial/blob/master/compression.md (compression)
