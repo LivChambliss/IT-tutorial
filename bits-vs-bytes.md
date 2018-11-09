@@ -8,3 +8,5 @@ When a byte holds a value of "1" it is considered to be "turned on." When a byte
 A **byte** is "*a group of binary digits or bits (usually eight) operated on as a unit*" (google). Each byte can be used in a computer to represent 
 a number, letter, or any other value assigned to the byte. When using ones and zeros in a byte that holds eight bits, you can represent a number as little
 as 0 and as great at 2048. 
+
+https://github.com/LivChambliss/IT-tutorial/blob/master/README.md
