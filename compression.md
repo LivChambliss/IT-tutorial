@@ -19,3 +19,6 @@ LLLLLLLXXXXXXXXXRRRRRRTTTTTTTT
 7L16X6R8T
 
 30 bytes were converted into 8 bytes 
+
+
+https://github.com/LivChambliss/IT-tutorial/blob/master/README.md
